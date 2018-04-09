@@ -5,7 +5,6 @@ import android.content.Context;
 
 import com.google.gson.GsonBuilder;
 
-import java.security.PrivateKey;
 
 import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
